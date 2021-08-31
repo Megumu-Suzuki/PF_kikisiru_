@@ -1,24 +1,36 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 業務用厨房機器レビューサイト「キキシル」
 
-Things you may want to cover:
+## サイト概要
+業務用厨房機器の選定の際に情報を得ることができるレビューサイトになります。ログインすることで自身の購入した機器の情報、レビューを投稿することができます。
 
-* Ruby version
+### サイトテーマ
+業務用厨房機器のレビューサイト。業務用厨房機器の選定の際に情報を得ることができる。レビューをスコアリングすることでランキングなど人気な商品を確認できるようにする。
 
-* System dependencies
+### テーマを選んだ理由
+営業で紹介された商品や気になった商品を買うとき、ネットでのレビューを見てから考えるという人も少なくない思います。前職で業務用厨房機器の営業をしていたのですが、業務用厨房機器に関するレビューサイトというのはあまりないと考えました。新店を開きたい人や機器の購入を考えている人が機器を知ることができる、同時に売り手側が顧客の求める情報や他社の機器の情報を得ることができる場所を作りたいと考えました。
 
-* Configuration
+### ターゲットユーザ
+業務用厨房機器の利用者。業務用厨房機器の販売者。
 
-* Database creation
+### 主な利用シーン
+気になる業務用厨房機器のレビューを確認する。実際に購入した機器の情報、レビューを投稿する。機器の評価ランキングを確認する。
+より詳しい情報得るため投稿者とのチャット。
 
-* Database initialization
+## 設計書
+<...>
 
-* How to run the test suite
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1VxBbIqKz7YlrnDTXHLmMoZVb5zkUS1-7skOwGrt25I8/edit?usp=sharing
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
