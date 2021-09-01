@@ -22,7 +22,7 @@
 UIフレームは<a href=https://app.diagrams.net/#G1T6T4WA_p2Z_WKUYahWQ1zpguw-eQYOdY>こちら</a>
 
 ## チャレンジ要素一覧
-https://docs.google.com/spreadsheets/d/1VxBbIqKz7YlrnDTXHLmMoZVb5zkUS1-7skOwGrt25I8/edit?usp=sharing
+要素一覧は<a href=https://docs.google.com/spreadsheets/d/1VxBbIqKz7YlrnDTXHLmMoZVb5zkUS1-7skOwGrt25I8/edit?usp=sharing>こちら</a>
 
 ## 開発環境
 - OS：Linux(CentOS)
