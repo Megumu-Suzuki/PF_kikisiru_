@@ -19,14 +19,14 @@
 自社の危機について理解を深めるため、自社や他社の販売している機器の情報や評判を確認するとき。
 
 ## 設計書
-UIフレームは<a href="https://drive.google.com/file/d/1T6T4WA_p2Z_WKUYahWQ1zpguw-eQYOdY/view?usp=sharing">こちら</a>
-ER図は<a href="https://drive.google.com/file/d/1XdtZY2AfhK8dQf2kOkI274mtEFcFHk82/view?usp=sharing">こちら</a>
-テーブル定義書は<a href="https://docs.google.com/spreadsheets/d/1sCu5dgXXKW43DcQghoUSbGMtw7AUnNIERxEvb85LLOw/edit?usp=sharing">こちら</a>
+UIフレームは<a href="https://drive.google.com/file/d/1T6T4WA_p2Z_WKUYahWQ1zpguw-eQYOdY/view?usp=sharing">こちら</a><br>
+ER図は<a href="https://drive.google.com/file/d/1XdtZY2AfhK8dQf2kOkI274mtEFcFHk82/view?usp=sharing">こちら</a><br>
+テーブル定義書は<a href="https://docs.google.com/spreadsheets/d/1sCu5dgXXKW43DcQghoUSbGMtw7AUnNIERxEvb85LLOw/edit?usp=sharing">こちら</a><br>
 アプリケーション詳細設計は<a href="https://docs.google.com/spreadsheets/d/18Ujq8EsayIrGynsupusB5mSK4yzJpUxPCkg5uhI0U6A/edit?usp=sharing">こちら</a>
 
 
 ## チャレンジ要素一覧
-要素一覧は<a href="://docs.google.com/spreadsheets/d/1VxBbIqKz7YlrnDTXHLmMoZVb5zkUS1-7skOwGrt25I8/edit?usp=sharing">こちら</a>
+要素一覧は<a href="https://docs.google.com/spreadsheets/d/1VxBbIqKz7YlrnDTXHLmMoZVb5zkUS1-7skOwGrt25I8/edit?usp=sharing">こちら</a>
 
 ## 開発環境
 - OS：Linux(CentOS)
